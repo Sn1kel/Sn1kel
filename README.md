@@ -11,10 +11,9 @@
 <p>accept_message="True"</p></h4>
 <br>
 <br>
-<div id="header" aling="left" >
+<div id="header" aling="right" >
   <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="500" /></a>
 </div>
-<br>
 <br>
 <br>
 <br>
