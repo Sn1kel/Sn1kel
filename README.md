@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img scr="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fthecodebytes.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fcodewars-logo-1.png&lr=11008&pos=0&rpt=simage&text=codewars" href="https://www.codewars.com/">
-[![codewars]([https://www.codewars.com/users/XnikoX/badges/large)](https://www.codewars.com/users/XnikoX)
+[![codewars]([https://www.codewars.com/users/XnikoX/badges/large)]
