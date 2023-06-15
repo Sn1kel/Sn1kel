@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🏐   I love volleyball
 - ⏳     Time is more expensive than money
 <h4>create_mode="job search"</h4>
-
+<h4>accept_message="True"</h4>
 #
 <div id="header" aling="right" >
   <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="" width="100"/></a>
