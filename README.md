@@ -5,16 +5,16 @@
 Here are some ideas to get you started:
 
 - ⚡ Fun fact: Программирование – это размышление, а не печатание
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 #
-#
-#
-#
-
 <div id="header" aling="right" >
   <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="" width="100"/></a>
   <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="500" /></a>
 </div>
-
+#
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
