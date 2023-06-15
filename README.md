@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⏳     Time is more expensive than money
 
 <h4>create_mode="job search"
-accept_message="True"</h4>
+<p>accept_message="True"</p></h4>
 
 
 <div id="header" aling="right" >
