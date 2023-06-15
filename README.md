@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <div id="header" align="center">
   <a href="https://telegram.org/Evil28Harris0"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
-   <a href="https://telegram.org/Evil28Harris0"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
+   <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.digiseller.ru%2Fpreview%2F356187%2Fp1_3659083_456b65e8.png&lr=11008&pos=3&rpt=simage&text=steam" width="100"/></a>
 </div>
 
 <div align="center"> 
