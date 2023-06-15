@@ -12,7 +12,7 @@
 <br>
 <br>
 <div id="header" align="right" >
-  <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="300" /></a>
+  <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="400" /></a>
 </div>
 <br>
 <br>
