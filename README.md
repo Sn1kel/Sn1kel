@@ -16,6 +16,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center"> 
-<img src="https://giphy.com/gifs/new-youtube-logo-13Nc3xlO1kGg3S" width="100"/>
+<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="100"/>
 </div>
 [![codewars](https://www.codewars.com/users/XnikoX/badges/large)]
