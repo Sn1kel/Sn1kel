@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <a href="https://telegram.org/Evil28Harris0"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></a>
    <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="" width="100"/></a>
-<a href="https://www.codewars.com/users/XnikoX"><img src="https://www.google.com/search?sxsrf=APwXEddpSJSP3GW-eES0wcbxYlNVoQw6Xg:1686850558439&q=codewars&tbm=isch&sa=X&ved=2ahUKEwjgrcyC6MX_AhVbDRAIHamSByUQ0pQJegQIChAB&biw=1920&bih=969&dpr=1#imgrc=81QBuS_8xcsZ2M" width="100"/></a>
-</div>
-
-<div align="center"> 
-<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="100"/>
+<a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="100"/></a>
 </div>
 
 <div>
