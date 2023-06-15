@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div id="header" >
+<div id="header" aling="right" >
   <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="" width="100"/></a>
-  <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="500" aling="right"/></a>
+  <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="500" /></a>
 </div>
 
 <div>
