@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div id="header" aling="right" >
-  <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="" width="100"/></a>
+  <a href="https://steamcommunity.com/id/xnikox_tlk/"><img src="https://icon-icons.com/ru/%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA/%D0%BF%D0%B0%D1%80%D0%B0/135152" width="100"/></a>
   <a href="https://www.codewars.com/users/XnikoX"><img src="https://www.codewars.com/users/XnikoX/badges/large" width="500" /></a>
 </div>
 
